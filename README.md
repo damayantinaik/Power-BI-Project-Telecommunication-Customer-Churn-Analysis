@@ -23,7 +23,7 @@
 **Group:**  Indicates if the customer is part of a group contract. A group contract offers advantages and is generally cheaper. Contains “Yes” or “No”  
 **Number of customers in a group:** Number of customers part of the group  
  
-## Subscription types & Charges: 
+### Subscription types & Charges: 
 **Account Length (in months):**  The number of months the customer has been with Databel  
 **Local Calls:** Amount of local (within the US) calls from the customer  
 **Intl Calls:**  Amount of international (outside the US) calls from the customer  
