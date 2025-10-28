@@ -1,5 +1,6 @@
 # A Case Study: Telecommunication Customer Churn Analysis 
 
+Databel (a fictional) telecommunication company provies different types services to the customers all over USA. It has national and international plans. Customer churn is biggest challenge of the company, and to prevent churn and improve customer loyality, company's data analysis team carries out deep insights analyis using Power BI on customers' demographics & bevaior, contract types, subscriptions & charges. 
 
 ## Meta data: 
 
@@ -35,7 +36,9 @@
 **Unlimited Data Plan:** Indicates if the customer has free unlimited download capacity with “Yes” or “No”.  This premium is reflected in the amount of the monthly charge  
 **Extra Data Charges:** Contains the extra charges for data downloads for customers who are not on an unlimited plan    
 **Monthly Charges:** Average of all Monthly Charges to the customer  
-**Total Charges:** Sum of all monthly charges  
+**Total Charges:** Sum of all monthly charges   
+
+This repository contains the dataset and the Power BI reports developed on the dataset.
  
 
 
