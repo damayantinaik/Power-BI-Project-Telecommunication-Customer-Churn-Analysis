@@ -1,8 +1,8 @@
 # A Case Study: Telecommunication Customer Churn Analysis 
 
-Databel (a fictional) telecommunication company provies different types services to the customers all over USA. It has national and international plans. Customer churn is biggest challenge of the company, and to prevent churn and improve customer loyality, company's data analysis team carries out deep insights analyis using Power BI on customers' demographics & bevaior, contract types, subscriptions & charges. 
+Databel (a fictional) telecommunication company provies different types services to the customers all over USA. It has national and international plans. Customer churn is biggest challenge of the company, and to prevent churn and improve customer loyality, company's data analysis team carries out deep insights analyis using Power BI. 
 
-## Meta data: 
+## Dataset's Meta data: 
 
 ### Customer status: 
 **Customer ID:** The unique ID that identifies a customer  
@@ -38,7 +38,10 @@ Databel (a fictional) telecommunication company provies different types services
 **Monthly Charges:** Average of all Monthly Charges to the customer  
 **Total Charges:** Sum of all monthly charges   
 
-This repository contains the dataset and the Power BI reports developed on the dataset.
+This repository contains the dataset and Power BI report with intese analysis on Churn Demographics, Groups and Categories, Unlimited Plan, International Calls, Contract Type, Age Groups, Payment and Contract. 
+
+I am very thankful to the Datacamp Power BI instructors for their guidance in preparing this project.
+ 
  
 
 
