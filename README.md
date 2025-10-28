@@ -1,1 +1,1 @@
-# Power-BI-Projects
+# A Case Study: Customer Churn Analysis 
