@@ -40,7 +40,7 @@ Databel (a fictional) telecommunication company provies different types services
 
 This repository contains the dataset and Power BI report with intese analysis on Churn Demographics, Groups and Categories, Unlimited Plan, International Calls, Contract Type, Age Groups, Payment and Contract. 
 
-I am very thankful to the Datacamp Power BI instructors for their guidance in preparing this project.
+
  
  
 
