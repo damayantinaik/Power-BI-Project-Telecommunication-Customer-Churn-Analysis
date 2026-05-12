@@ -38,7 +38,7 @@ Databel (a fictional) telecommunication company provies different types services
 **Monthly Charges:** Average of all Monthly Charges to the customer  
 **Total Charges:** Sum of all monthly charges   
 
-This repository contains the dataset and Power BI report with intese analysis on Churn Demographics, Groups and Categories, Unlimited Plan, International Calls, Contract Type, Age Groups, Payment and Contract. 
+This repository contains the dataset and Power BI report with intese analysis on customer Demographic, Groups and Categories, Unlimited Plan, International Calls, Contract Type, Age Groups, Payment and Contract. 
 
 
  
